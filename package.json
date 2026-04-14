@@ -2,6 +2,7 @@
   "name": "workspace",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://user-0717.github.io/personal-planner/",
   "type": "module",
   "scripts": {
     "dev": "vite",
